@@ -414,8 +414,8 @@ MonoBehaviour:
   SwitchSettingsMigration: 1
   HasSourceProject: 1
   HasPlatforms: 1
-  sourceProjectPath: 
-  sourceBankPath: 
+  sourceProjectPath: .\Assets\Audio\MixJamFMOD\MixJamFMOD.fspro
+  sourceBankPath: .\Assets\Audio\MixJamFMOD\Build
   SourceBankPathUnformatted: 
   AutomaticEventLoading: 1
   BankLoadType: 0
