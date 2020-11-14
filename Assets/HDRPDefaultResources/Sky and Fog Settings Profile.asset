@@ -28,7 +28,7 @@ MonoBehaviour:
     m_Value: 0
   compensation:
     m_OverrideState: 1
-    m_Value: -1.25
+    m_Value: -1.5
   limitMin:
     m_OverrideState: 1
     m_Value: -10
@@ -135,7 +135,7 @@ MonoBehaviour:
     showEyeDropper: 1
   meanFreePath:
     m_OverrideState: 1
-    m_Value: 88
+    m_Value: 22.5
     min: 1
   enableVolumetricFog:
     m_OverrideState: 1
@@ -407,7 +407,7 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 1
   skyAmbientMode:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 0
   fogType:
     m_OverrideState: 1
@@ -450,10 +450,10 @@ MonoBehaviour:
     m_Value: {x: 0.18750395, y: 0.2918189, z: 0.5}
   desiredLuxValue:
     m_OverrideState: 1
-    m_Value: 2
+    m_Value: 250
   updateMode:
     m_OverrideState: 0
-    m_Value: 0
+    m_Value: 2
   updatePeriod:
     m_OverrideState: 0
     m_Value: 0
