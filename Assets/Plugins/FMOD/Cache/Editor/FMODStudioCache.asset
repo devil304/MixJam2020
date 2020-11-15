@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Path: ./Assets/Audio/MixJamFMOD/Build/Desktop/Master.bank
   Name: Master
-  lastModified: 637409084009276329
+  lastModified: 637409084299473950
   LoadResult: 0
   FileSizes: []
   Exists: 1
@@ -39,7 +39,7 @@ MonoBehaviour:
   - {fileID: -2675953198237005710}
   StringsBanks:
   - {fileID: 3542877858079235368}
-  stringsBankWriteTime: 637409084009285992
+  stringsBankWriteTime: 637409084299483960
   cacheVersion: 5
 --- !u!114 &3542877858079235368
 MonoBehaviour:
@@ -55,7 +55,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Path: ./Assets/Audio/MixJamFMOD/Build/Desktop/Master.strings.bank
   Name: Master.strings
-  lastModified: 637409084009285992
+  lastModified: 637409084299483960
   LoadResult: 0
   FileSizes:
   - Name: Desktop
